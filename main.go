@@ -1,5 +1,11 @@
+/*
+Copyright © 2026 NAME HERE <EMAIL ADDRESS>
+
+*/
 package main
 
-func main() {
+import "github.com/vieolo/detctl/cmd"
 
+func main() {
+	cmd.Execute()
 }

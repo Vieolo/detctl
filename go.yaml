@@ -1,0 +1,10 @@
+name: detctl
+description: The control plane of deterministic skills for AI agents
+version: 0.0.1
+		
+external:
+  gomore:
+    # commands:
+      # build: go build main.go
+      # test: go test
+		
